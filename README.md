@@ -49,8 +49,8 @@
 
 - 竖屏:
 
-<img src="D:\Calculator\Simulator Screen Shot - iPhone 11 Pro Max - 2021-10-05 at 06.39.38.png" style="zoom:25%" />
+<img src="Simulator Screen Shot - iPhone 11 Pro Max - 2021-10-05 at 06.39.38.png" style="zoom:25%" />
 
 - 横屏:
 
-<img src="D:\Calculator\Simulator Screen Shot - iPhone 11 Pro Max - 2021-10-05 at 06.39.58.png" style="zoom: 25%" />
+<img src="Simulator Screen Shot - iPhone 11 Pro Max - 2021-10-05 at 06.39.58.png" style="zoom: 25%" />
